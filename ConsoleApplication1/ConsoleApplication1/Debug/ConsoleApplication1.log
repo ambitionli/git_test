@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\law\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,30): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+C:\Users\law\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,30): warning C4293: “>>”: Shift 计数为负或过大，其行为未定义
+C:\Users\law\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,40): warning C4293: “>>”: Shift 计数为负或过大，其行为未定义
+  ConsoleApplication1.vcxproj -> C:\Users\law\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
